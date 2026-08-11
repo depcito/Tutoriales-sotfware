@@ -1,6 +1,8 @@
 Tutorial 01 Ingeniería de Software
-Profesor Daniel Correa
-Samuel Hernando Echeverri Castrillon
+* Profesor: Daniel Correa
+
+ 
+ * Por: Samuel Hernando Echeverri Castrillon
 
 ## Requisitos de instalación
 
