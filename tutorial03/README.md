@@ -44,3 +44,5 @@ php artisan serve
 Luego abrir en el navegador: http://127.0.0.1:8000/
 Tutorial A - Abrir tambien: http://127.0.0.1:8000/cart
 Tutorial B - abrir tambien:http://127.0.0.1:8000/image y http://127.0.0.1:8000/image-not-di 
+
+
